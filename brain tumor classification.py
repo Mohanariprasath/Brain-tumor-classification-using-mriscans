@@ -1,4 +1,6 @@
-mport pandas as pd
+#import the models
+
+import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import os, shutil

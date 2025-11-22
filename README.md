@@ -4,4 +4,4 @@ Brain tumors pose a significant threat to human health, and early detection is c
 
 Introduction
 
-Brain tumors are abnormal and uncontrolled growths of cells within the brain, and they represent one of the most life-threatening neurological disorders. Early and accurate diagnosis is essential for planning effective treatment and improving patient outcomes.
+Brain tumors are abnormal and uncontrolled growths of cells within the brain, and they represent one of the most life-threatening neurological disorders. Early and accurate diagnosis is essential for planning effective treatment and improving patient outcomes.Magnetic Resonance Imaging (MRI) is the most widely used imaging technique for brain tumor detection because it provides high-resolution images of brain tissues without exposing patients to harmful radiation. However, manual analysis of MRI scans is time-consuming, prone to human error, and highly dependent on the expertise of radiologists.

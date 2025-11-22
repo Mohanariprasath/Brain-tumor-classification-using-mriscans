@@ -5,3 +5,5 @@ Brain tumors pose a significant threat to human health, and early detection is c
 Introduction
 
 Brain tumors are abnormal and uncontrolled growths of cells within the brain, and they represent one of the most life-threatening neurological disorders. Early and accurate diagnosis is essential for planning effective treatment and improving patient outcomes.Magnetic Resonance Imaging (MRI) is the most widely used imaging technique for brain tumor detection because it provides high-resolution images of brain tissues without exposing patients to harmful radiation. However, manual analysis of MRI scans is time-consuming, prone to human error, and highly dependent on the expertise of radiologists.
+
+With advancements in artificial intelligence, automated image analysis techniques—especially machine learning and deep learning—have gained significant importance in medical image classification. These systems can learn complex patterns from large datasets and provide consistent, rapid, and accurate predictions.

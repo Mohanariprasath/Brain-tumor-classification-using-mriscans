@@ -10,3 +10,6 @@ With advancements in artificial intelligence, automated image analysis technique
 
 This study focuses on developing an efficient and automated brain tumor classification model using MRI scans. The proposed system includes stages such as image preprocessing, feature extraction, and classification to improve diagnostic accuracy.By reducing analysis time and minimizing human error, such systems have the potential to assist radiologists in clinical environments and enhance overall patient care. Continued research and development in this area can lead to more robust, real-time diagnostic tools that contribute to early intervention and better prognosis.
 
+
+
+
